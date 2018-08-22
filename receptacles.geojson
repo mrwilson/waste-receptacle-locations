@@ -1,0 +1,469 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0305987, 
+                    51.5152282
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0302401, 
+                    51.5178852
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0310815, 
+                    51.5191056
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0314837, 
+                    51.5193398
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0316534, 
+                    51.5197094
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0322895, 
+                    51.5199379
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0336638, 
+                    51.5199629
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0343086, 
+                    51.5218725
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0355859, 
+                    51.5220407
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0360675, 
+                    51.5229248
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0360285, 
+                    51.5243834
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0358029, 
+                    51.5243214
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0356885, 
+                    51.5242937
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.035385, 
+                    51.5241172
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0355373, 
+                    51.5238914
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0357529, 
+                    51.5235004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0347428, 
+                    51.5241877
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0346651, 
+                    51.5231581
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0355206, 
+                    51.5190778
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0351624, 
+                    51.51882
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 0, 
+                "recycle_paper": 0, 
+                "general": 1
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0339292, 
+                    51.5210247
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0347525, 
+                    51.5242494
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0346953, 
+                    51.5232803
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0350511, 
+                    51.5210434
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0356666, 
+                    51.5212361
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0352244, 
+                    51.5187231
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0339621, 
+                    51.5178366
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0334817, 
+                    51.5168573
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.0295016, 
+                    51.5161896
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "recycle_plastic": 0, 
+                "dog": 1, 
+                "recycle_paper": 0, 
+                "general": 0
+            }
+        }
+    ]
+}
