@@ -36,7 +36,7 @@ def generate_geojson():
 
 def write_to_file(output):
     with open('receptacles.geojson', "w") as schema:
-        schema.write(json.dumps(output, indent=4))
+        schema.write(json.dumps(output))
 
 
 if __name__ == '__main__':
